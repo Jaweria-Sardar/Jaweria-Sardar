@@ -7,7 +7,7 @@ I'm an MPhil Mathematics student at The Women University Multan, Pakistan. I am 
 - Coding: Python-based deep learning models (e.g., EfficientNet for CBIS-DDSM dataset)
   
 🛠 **Skills**:
-- Tools: [e.g., MATLAB, SageMath, LaTeX]
+- Tools: MATLAB, SageMath, LaTeX 
 <!-- This text will be hidden on GitHub 
 📫 **Connect**:
 - [LinkedIn](your-linkedin-url)
