@@ -1,19 +1,18 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Jaweria Sardar
 
-MPhil Mathematics student at [Your University], delving into [research focus, e.g., applied mathematics, pure mathematics]. My work explores [specific topic, e.g., optimization techniques, group theory applications].
+I'm an MPhil Mathematics student at The Women University Multan, Pakistan. I am passionate about exploring the beauty and applications of mathematics. My research interests lie in Artificial Intelligence, Machine Learning, Deep Learning, Robtoics and I enjoy bridging theoretical concepts with practical problem-solving.
 
 🔍 **Current Focus**:
-- Thesis: [e.g., "Spectral Analysis of Graph Structures"]
-- Coding: [e.g., Python scripts for mathematical modeling]
-
+- Thesis: Breast Cancer Detection Using Deep Learning
+- Coding: Python-based deep learning models (e.g., EfficientNet for CBIS-DDSM dataset)
+  
 🛠 **Skills**:
-- Mathematics: [e.g., Complex Analysis, Probability Theory]
 - Tools: [e.g., MATLAB, SageMath, LaTeX]
-
+<!-- This text will be hidden on GitHub 
 📫 **Connect**:
 - [LinkedIn](your-linkedin-url)
 - [Email](mailto:your-email)
 
 ⚡ **Fun Fact**: [e.g., I’m always chasing the next elegant proof!]
 
-Check out my repos for mathematical projects and code! 🚀
+Check out my repos for mathematical projects and code! 🚀-->
